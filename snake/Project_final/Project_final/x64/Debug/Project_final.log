@@ -1,0 +1,10 @@
+﻿  snakegamefinal.cpp
+D:\Proga\Project1\Project_final\Project_final\snakegamefinal.cpp(64,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Proga\Project1\Project_final\Project_final\snakegamefinal.cpp(91,28): warning C4305: инициализация: усечение из "double" в "float"
+D:\Proga\Project1\Project_final\Project_final\snakegamefinal.cpp(124,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Proga\Project1\Project_final\Project_final\snakegamefinal.cpp(124,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Proga\Project1\Project_final\Project_final\snakegamefinal.cpp(138,51): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Proga\Project1\Project_final\Project_final\snakegamefinal.cpp(138,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Proga\Project1\Project_final\Project_final\snakegamefinal.cpp(142,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Proga\Project1\Project_final\Project_final\snakegamefinal.cpp(142,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Project_final.vcxproj -> D:\Proga\Project1\Project_final\x64\Debug\Project_final.exe
